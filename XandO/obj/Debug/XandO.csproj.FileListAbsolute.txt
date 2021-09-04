@@ -1,0 +1,13 @@
+C:\Users\ahmed\source\repos\XandO\XandO\bin\Debug\XandO.exe.config
+C:\Users\ahmed\source\repos\XandO\XandO\bin\Debug\XandO.exe
+C:\Users\ahmed\source\repos\XandO\XandO\bin\Debug\XandO.pdb
+C:\Users\ahmed\source\repos\XandO\XandO\obj\Debug\XandO.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\XandO\XandO\obj\Debug\XandO.Form1.resources
+C:\Users\ahmed\source\repos\XandO\XandO\obj\Debug\XandO.Properties.Resources.resources
+C:\Users\ahmed\source\repos\XandO\XandO\obj\Debug\XandO.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\XandO\XandO\obj\Debug\XandO.exe
+C:\Users\ahmed\source\repos\XandO\XandO\obj\Debug\XandO.pdb
+C:\Users\ahmed\source\repos\XandO\XandO\bin\Debug\XandO.exe.manifest
+C:\Users\ahmed\source\repos\XandO\XandO\bin\Debug\XandO.application
+C:\Users\ahmed\source\repos\XandO\XandO\obj\Debug\XandO.exe.manifest
+C:\Users\ahmed\source\repos\XandO\XandO\obj\Debug\XandO.application
